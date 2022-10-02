@@ -14,6 +14,3 @@ while True:
         print(median)
     except ValueError:
         print("Some input could not be converted to a number!")
-    else:
-        break
-print(numbers)
